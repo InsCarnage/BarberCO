@@ -1,0 +1,17 @@
+﻿@using Barberco.Models
+@model List<ProductModel>
+
+<div class="GH">
+    <h1>Beard oil</h1>
+    <div class="ItemContainer">
+        @foreach (ProductModel file in Model)
+        {
+            <div class="Item">
+                <img src="~/Images/@file.FileName" alt="Something went wrong" />
+                <h2>R199.99</h2>
+                <a class="button">Add to cart</a>
+            </div>
+        }
+
+    </div>
+</div>
