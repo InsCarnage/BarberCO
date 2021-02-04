@@ -92,3 +92,4 @@ D:\..AubreyColab\Project1\Barberco\Barberco\obj\Debug\netcoreapp3.1\Razor\Areas\
 D:\..AubreyColab\Project1\Barberco\Barberco\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\Privacy.cshtml.g.cs
 D:\..AubreyColab\Project1\Barberco\Barberco\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\_ViewImports.cshtml.g.cs
 D:\..AubreyColab\Project1\Barberco\Barberco\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\_ViewStart.cshtml.g.cs
+D:\..AubreyColab\Project1\Barberco\Barberco\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
