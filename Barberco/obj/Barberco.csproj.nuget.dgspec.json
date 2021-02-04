@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\..AubreyColab\\Project1\\Barberco\\Barberco\\Barberco.csproj": {}
+    "C:\\Users\\Aekur\\OneDrive\\Documents\\GitHub\\BarberCO\\Barberco\\Barberco.csproj": {}
   },
   "projects": {
-    "D:\\..AubreyColab\\Project1\\Barberco\\Barberco\\Barberco.csproj": {
+    "C:\\Users\\Aekur\\OneDrive\\Documents\\GitHub\\BarberCO\\Barberco\\Barberco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\..AubreyColab\\Project1\\Barberco\\Barberco\\Barberco.csproj",
+        "projectUniqueName": "C:\\Users\\Aekur\\OneDrive\\Documents\\GitHub\\BarberCO\\Barberco\\Barberco.csproj",
         "projectName": "Barberco",
-        "projectPath": "D:\\..AubreyColab\\Project1\\Barberco\\Barberco\\Barberco.csproj",
-        "packagesPath": "C:\\Users\\Jeand\\.nuget\\packages\\",
-        "outputPath": "D:\\..AubreyColab\\Project1\\Barberco\\Barberco\\obj\\",
+        "projectPath": "C:\\Users\\Aekur\\OneDrive\\Documents\\GitHub\\BarberCO\\Barberco\\Barberco.csproj",
+        "packagesPath": "C:\\Users\\Aekur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aekur\\OneDrive\\Documents\\GitHub\\BarberCO\\Barberco\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Jeand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aekur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

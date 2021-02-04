@@ -14,8 +14,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\" />
-    <Folder Include="Controllers\" />
+    <Content Update="wwwroot\css\Style.css">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Style.scss</DependentUpon>
+    </Content>
+    <Content Update="wwwroot\css\Style.scss">
+      <Generator>SassTranspiler</Generator>
+      <LastGenOutput>Style.css</LastGenOutput>
+    </Content>
   </ItemGroup>
 
 </Project>
